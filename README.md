@@ -66,8 +66,4 @@ This project was created to practice Java programming concepts, GUI development,
 - Event Handling
 - Basic Data Structures
 
----
 
-## ▶ How to Run
-1. Install Java JDK (8 or above)
-2. Compile the program:
